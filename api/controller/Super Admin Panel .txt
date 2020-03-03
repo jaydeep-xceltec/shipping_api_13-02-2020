@@ -1,0 +1,14 @@
+Super Admin Panel / Sub Admin
+Back End Login
+Back End Forgot password
+Back End Change password
+Back End Dashboard
+Back End Role Management:
+Back End Role Access Management:
+Back End Company Admin Management:
+	
+Company Admin
+Front End	Login:
+Front End	Logout/Forgot Password:
+Front End	Company Admin User Dashboard:
+Front End	Company Admin Staff Management
